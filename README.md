@@ -1,3 +1,2 @@
-# Blog Of Coding
+# Blog Of Computer
 
-> An awesome project.
